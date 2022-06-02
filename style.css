@@ -31,8 +31,13 @@ body {
     color: hsl(219, 29%, 14%);
 }
 
-#name {
+#special {
     color: hsl(219, 29%, 14%);
+}
+
+#special-name {
+    color: hsl(219, 29%, 14%);
+
 }
 .card1{
     background-color: hsl(263, 55%, 52%);
