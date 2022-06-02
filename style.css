@@ -18,6 +18,10 @@ body {
     color: white;
 }
 
+.hidden{
+    display: none;
+}
+
 .light {
     color: hsl(0, 0%, 81%);
     font-weight: 500;
